@@ -11,6 +11,7 @@ Author: Vaqas Uddin
 Version: 1
 Author Email : mvaqasuddin@gmail.com
 */
+// [twitter username="vaqasuddin" show_tweets='true' num_tweets = 6]follow me[/twitter]
 add_shortcode('twitter',function($atts,$content){
 	$atts = shortcode_atts(array(
 		'username' => 'vaqasuddin',

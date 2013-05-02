@@ -8,7 +8,7 @@ Plugin Name: Vaqas Twitter With Cache
 Plugin URI: http://www.re.vu/mvaqasuddin
 Description: This is custom twitter app which is based on cache with 10 min delay time it will save your https request @ twitter all the time any one come to your page
 Author: Vaqas Uddin
-Version: 1
+Version: 1.0
 Author Email : mvaqasuddin@gmail.com
 */
 // [twitter username="vaqasuddin" show_tweets='true' num_tweets = 6]follow me[/twitter]
